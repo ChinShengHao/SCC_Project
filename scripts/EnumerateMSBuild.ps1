@@ -1,4 +1,5 @@
-﻿Function Write-Log
+﻿##Test for Jenkins
+Function Write-Log
 {
 Param(
     [parameter(Mandatory=$false)]
