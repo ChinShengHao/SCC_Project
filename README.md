@@ -77,6 +77,7 @@ You are also encouraged to start a discussion by filing an issue or creating a g
 
 * **Microsoft.Build.Utilities**. The [Microsoft.Build.Utilities](https://docs.microsoft.com/dotnet/api/microsoft.build.utilities) namespace provides helper classes that you can use to create your own MSBuild loggers and tasks.
 
+
 ### License
 
 MSBuild is licensed under the [MIT license](LICENSE).
